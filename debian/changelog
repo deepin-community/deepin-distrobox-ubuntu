@@ -1,5 +1,5 @@
-template-repository (1.0-1) unstable; urgency=medium
+deepin-distrobox-ubuntu (0) unstable; urgency=medium
 
-  * Initial release
+  * Initial release.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Mingcong Bai <baimingcong@uniontech.com>  Wed, 23 Oct 2024 11:35:51 +0800
