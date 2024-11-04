@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Ubuntu 20.04
+Name[zh_CN]=Ubuntu 20.04
+Comment=Install an Ubuntu 20.04 container
+Comment[zh_CN]=安装 Ubuntu 20.04 容器
+Icon=ubuntu-distrobox
+Exec=/usr/libexec/deepin-distrobox-installer/deepin-distrobox-installer install ubuntu:20.04
+Categories=Distrobox;System;Utility;
+Terminal=true
+Type=Application

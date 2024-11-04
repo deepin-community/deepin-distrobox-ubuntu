@@ -1,4 +1,11 @@
 #!/usr/bin/make -f
 
+# Export necessary variables
+export DH_VERBOSE = 1
+
 %:
 	dh $@
+
+override_dh_auto_install:
+	install -Dvm644 ./ubuntu-20-04.desktop \
+		./debian/deepin-distrobox-ubuntu/usr/share/applications/ubuntu-20-04.desktop
