@@ -1,3 +1,0 @@
-#!/bin/sh
-
-deepin-distrobox-installer remove ubuntu-20-04
